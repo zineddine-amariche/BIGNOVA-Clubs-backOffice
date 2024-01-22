@@ -1,0 +1,25 @@
+{
+  "greeting": "Bienvenue sur",
+  "greeting_sous_titre": "Merci de vous connecter pour continuer",
+  "welcome": "Bienvenue sur application",
+  "sidebar": [
+    {
+      "Dashboard": "Tableau de bord",
+      "Admins": "Administrateurs",
+      "Pointage": "Pointage",
+      "Employes": "Employés",
+      "TypedeLot": "Type de Lot",
+      "Lots": "Lots",
+      "Abonnement": "Abonnement",
+      "Club": "Club"
+    }
+  ],
+  "navbar": [
+    {
+      "MyProfile": "Tableau de bord",
+      "logout": "Se déconnecter",
+      "title": "Administrateur"
+ 
+    }
+  ]
+}

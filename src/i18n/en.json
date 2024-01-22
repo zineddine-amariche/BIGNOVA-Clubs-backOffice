@@ -1,0 +1,25 @@
+{
+  "greeting": "Hello to",
+  "greeting_sous_titre": "Please loging to continue",
+  "welcome": "Welcome to my app",
+  "sidebar": [
+    {
+      "Dashboard": "Dashboard",
+      "Admins": "Admins",
+      "Pointage": "Attendance",
+      "Employes": "Employees",
+      "TypedeLot": "Lot Type",
+      "Lots": "Lots",
+      "Abonnement": "Subscription",
+      "Club": "Club"
+    }
+  ],
+  "navbar": [
+    {
+      "MyProfile": "Dashboard",
+      "logout": "Log out",
+      "title": "Admin"
+ 
+    }
+  ]
+}

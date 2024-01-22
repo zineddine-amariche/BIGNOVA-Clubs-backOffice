@@ -1,0 +1,24 @@
+{
+  "greeting": "مرحبًا في",
+  "greeting_sous_titre": "الرجاء تسجيل الدخول للمتابعة",
+  "welcome": "مرحبًا بك في تطبيقي",
+  "sidebar": [
+    {
+      "Dashboard": "لوحة القيادة",
+      "Admins": "المشرفون",
+      "Pointage": "الحضور",
+      "Employes": "الموظفون",
+      "TypedeLot": "نوع القطعة",
+      "Lots": "القطع",
+      "Abonnement": "الاشتراك",
+      "Club": "النادي"
+    }
+  ],
+  "navbar": [
+    {
+      "MyProfile": "لوحة التحكم",
+      "logout": "تسجيل الحروج",
+      "title": " مسؤل التحكم"
+    }
+  ]
+}
